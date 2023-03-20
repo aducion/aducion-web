@@ -74,7 +74,7 @@ main{
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    height: 100vh;
+    min-height: -webkit-fill-available;
 }
 
 .content{
